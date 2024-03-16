@@ -1,6 +1,9 @@
 # SNRnet
-**Metric-driven generation of light beams propagating through random media via self-supervised learning (2024)**
 ---
+**Direct generation of stochastic beams for maximizing SNR in atmospheric propagation (2024)**  
+
+Metric-driven generation of light beams via self-supervised learning
+
 ### Keywords:
 free-space optics  
 atmospheric propagation of laser beams  
